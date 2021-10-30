@@ -1,0 +1,14 @@
+In line number 8 of your output:
+The output should be:
+Day 1 - Low: -2
+              ^
+But your output is: 
+Day 1 - Low: -4
+              ^
+
+Unmatched character details:
+The character in column 15 is supposed to be:
+  [2] ASCII code(50)
+but you printed
+  [4] ASCII code(52)
+

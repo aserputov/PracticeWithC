@@ -1,0 +1,3 @@
+While doing this workshop a lirned a lot thing. Just star frop loops or if,I didn't know if before. Right know I can easy use if,for and while in my programs.On this lab we
+use loops for less lines of code and it makes our life better. We increase our knowledges about programming and makes things interesting. Labs in class and at home helps me 
+to understand programming better and learn stuff faster.

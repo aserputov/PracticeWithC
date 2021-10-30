@@ -1,0 +1,14 @@
+In line number 43 of your output:
+The output should be:
+Structure test for Contact using functions done!
+                                                ^
+But your output is: 
+Structure test for Contact using functions done!
+                                                ^
+
+Unmatched character details:
+The character in column 49 is supposed to be:
+  [Newline (\n) or Carriage Retrun (\r)] ASCII code(13)
+but you printed
+  [Empty Line] ASCII code(0)
+

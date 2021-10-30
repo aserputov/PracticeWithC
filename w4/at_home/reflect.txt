@@ -1,0 +1,6 @@
+Hello, dear professor, my name is Anatoliy Serputov and I'm your student of the NZZ group.
+For myself I find with in_lab and at_home workshops very important and interested because with every day practicing in programming, I writing fewer lines of codes but doing more work. Before I knew just simple "if" after "for" and right now with step by step we can create something interesting.  But this was a game-changer because right now I know arrays, which helps me in a lot and I have 3 reasons to speak about.
+The good thing is that we use fewer lines of code at first and can put more information in 1 variable. In this workshop, I used arrays to scanf all result of temperature. And after print them in order for what I need. The most thing is what makes my life easier and gives it looks wider.
+Of cource using parallel arrays was a good idea because we can save and print a lot of variables.
+We use a loop from because arrays start from 0. I mean for example if we have 1 2 3 4 5 in array they will look like place 0 is 1 place 1 is  2 and so on. 
+Thank you very much, professor, labs help me understand information better. 

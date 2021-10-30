@@ -1,0 +1,1 @@
+This in lab project help us a lot to understand pointers and structures and combined in in different files.
